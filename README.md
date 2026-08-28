@@ -1,9 +1,5 @@
-# Cohert-Team-Project
+# Cohort-Team-Project
 
-Team Members
-<br>
-1.Pranav Patahre
-
-First Commit by Deepak!
-New commit by Deepak.
-
+## Team Members
+1. Pranav Pathare
+2. Deepak Panjwani

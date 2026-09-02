@@ -7,5 +7,5 @@ git add README.md
 3. Vaishnavi Mankar
 4. Suraj Kashid
 5. Abhijeet Singh
-6. Dhruv Tank
+6. Dhruv Thank
 

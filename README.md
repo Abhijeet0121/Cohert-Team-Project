@@ -8,4 +8,6 @@ git add README.md
 4. Suraj Kashid
 5. Abhijeet Singh
 6. Dhruv Tank
-7. Ashant Rote
+7. Raj Sardar
+8. Payal Bedarkar
+

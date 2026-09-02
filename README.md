@@ -3,7 +3,7 @@
 git add README.md
 ## Team Members
 1. Pranav Pathare
-2. Deepak Panjwani
+2. Deepak_Panjwani 
 3. Vaishnavi Mankar
 4. Suraj Kashid
 5. Abhijeet Singh

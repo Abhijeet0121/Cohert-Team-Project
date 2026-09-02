@@ -9,4 +9,3 @@ git add README.md
 5. Abhijeet Singh
 6. Dhruv Tank
 7. Ashant Rote
-
